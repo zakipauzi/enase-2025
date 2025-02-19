@@ -1,0 +1,16 @@
+ID,Type,Author,Title,Link
+GL1,Tech doc,Microsoft,End-to-end traceability in Azure DevOps,https://learn.microsoft.com/en-us/azure/devops/cross-service/end-to-end-traceability?view=azure-devops
+GL2,Blog post,Github,Demonstrating end-to-end traceability with pull requests,https://github.blog/2023-07-11-demonstrating-end-to-end-traceability-with-pull-requests
+GL3,Whitepaper,AWS,Machine Learning Best Practices in Healthcare and Life Sciences,https://docs.aws.amazon.com/whitepapers/latest/ml-best-practices-healthcare-life-sciences/traceability.html
+GL4,Tech doc,Atlassian,DevOps Tools,https://www.atlassian.com/devops/devops-tools
+GL5,Tech doc,Gathr,DevOps Traceability,https://xopsapps.gathr.one/devops-traceability
+GL6,Case study,SystemC,Traceable Project Development With Azure DevOps,https://www.systemc.com/knowledge-hub/thought-leadership/traceable-project-development-with-azure-devops
+GL7,Tech doc,Modern Requirements,Modern requirements4DevOps,https://www.modernrequirements.com/products/modern-requirements4devops-features
+GL8,Tech doc,Microsoft,Requirements Traceability,https://learn.microsoft.com/en-us/azure/devops/pipelines/test/requirements-traceability?view=azure-devops
+GL9,Blog post,Veritis,Why DevOps traceability is the need of the hour,https://www.veritis.com/blog/why-devops-traceability-is-the-need-of-the-hour
+GL10,Case study,OpsHub,US-Based Multinational Cloud Provider Successfully Migrated to Azure DevOps with OpsHub,https://www.opshub.com/case-studies/us-based-multinational-cloud-provider-successfully-migrated-to-azure-devops-with-opshub
+GL11,Case study,Testhouse,"Bank Achieves Traceability, Automation with Test Solution",https://www.testhouse.net/case-study/solution
+GL12,Tech doc,TestRail,Integrate with Azure DevOps,https://support.testrail.com/hc/en-us/articles/7536901170196-Integrate-with-Azure-DevOps
+GL13,Case study,IBM,Speeding application delivery by about 94% with IBM UrbanCode Deploy software,https://www.ibm.com/case-studies/daimler-trucks-north-america
+GL14,Case study,UST,New DevOps ecosystem reduced manual processes by 90% for an American weather forecasting company,https://www.ust.com/en/insights/new-devops-ecosystem-reduced-manual-processes-by-90-percent-for-an-american-weather-forecasting-company
+GL15,Tech doc,Google (DORA),Version control,https://dora.dev/devops-capabilities/technical/version-control
